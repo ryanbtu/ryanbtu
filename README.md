@@ -2,7 +2,7 @@
 - 👀 I’m interested in learn programming
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on all i can
-- 📫 How to reach me ryanbt@gmail.com
+- 📫 How to reach me: ryanbtu@gmail.com
 
 <!---
 ryanbtu/ryanbtu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
