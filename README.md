@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ryanbtu
 - 👀 I’m interested in learn programming
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on all i can
 - 📫 How to reach me: ryanbtu@gmail.com
 
