@@ -15,7 +15,7 @@
 ---
 
 ### 📚 Atualmente
-🔹 **Tecnólogo** em Análise e Desenvolvimento de Sistemas (FATEC - BOTUCATU)
+🔹 **Tecnólogo** em Análise e Desenvolvimento de Sistemas (FATEC - BOTUCATU)<br>
 🔹 Criando **projetos para portfólio**  
 🔹 Buscando sempre evoluir e aprender algo novo 🔥
 
